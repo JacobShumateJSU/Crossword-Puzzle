@@ -1,2 +1,2 @@
-# Crossworld-Puzzle
+# Crossword-Puzzle
 Python crossword puzzle
