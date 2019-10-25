@@ -39,6 +39,6 @@ userinput | Stores user input from keyboard which determines which function to e
 word | Stores the user's guessed word in order to search for its' existence
 
 # Python Libraries Used 
-   * sys
-   * csv
+   * sys - Used to terminate program and display characters
+   * csv - Used to read puzzle.csv file
 
