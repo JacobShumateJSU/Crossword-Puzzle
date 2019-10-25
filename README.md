@@ -22,9 +22,9 @@
 ###### *This program uses 6 separate functions.*
 Function | Purpose
 ------------ | -------------
-main() |
-createGrid() |
-findWord() |
-readPuzzle() |
-addWordtoGrid() |
-printGrid() |
+main() | Initializes core variables, prompts user for input, and then evaluates what to do depending on what the user entered.
+createGrid() | Enumerates through a for loop to populate a grid of 15x15 ascii characters. Initializes the grid.
+findWord() | Function parameters are user input. Searches grid to see if the word that the user entered exists.
+readPuzzle() | Reads the data from puzzle.csv and stores them into a dictionary 
+addWordtoGrid() | Populates the grid with words that were read from the puzzle.csv file
+printGrid() | Executed when user input is R or Show Grid. This function displays the grid to the user.
