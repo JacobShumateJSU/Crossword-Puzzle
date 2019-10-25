@@ -18,3 +18,6 @@
 
 #### Once the previous steps are complete, open your command line and make sure you're in the same directory as puzzle.csv and CrossWordPuzzle.py and simply run the command `python CrossWordPuzzle.py`
 
+# Functions Documentation
+Function | Purpose
+------------ | -------------
