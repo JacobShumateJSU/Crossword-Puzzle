@@ -3,5 +3,5 @@
 
 # Running the Crossword puzzle
 
-##### *In order to run this program, you must have python 3 installed.
+##### *In order to run this program, you must have python 3 installed.*
 
