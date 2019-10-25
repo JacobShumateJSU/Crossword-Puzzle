@@ -4,7 +4,7 @@
 # Running the Crossword puzzle
 
 ###### *In order to run this program, you must have python 3 installed.*
-## Installing Python 3
+### Installing Python 3
 * Linux
-  * ssda
+ * sudo apt-get install python3.6
 
