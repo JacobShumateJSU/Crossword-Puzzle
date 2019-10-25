@@ -38,4 +38,7 @@ grid | The grid itself composed of strings
 userinput | Stores user input from keyboard which determines which function to execute
 word | Stores the user's guessed word in order to search for its' existence
 
+# Python Libraries Used 
+   * sys
+   * csv
 
