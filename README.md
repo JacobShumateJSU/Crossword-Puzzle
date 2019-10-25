@@ -28,3 +28,7 @@ findWord() | Function parameters are user input. Searches grid to see if the wor
 readPuzzle() | Reads the data from puzzle.csv and stores them into a dictionary 
 addWordtoGrid() | Populates the grid with words that were read from the puzzle.csv file
 printGrid() | Executed when user input is R or Show Grid. This function displays the grid to the user.
+
+# Important Variables 
+Variable Name | Value
+------------ | -------------
