@@ -32,3 +32,10 @@ printGrid() | Executed when user input is R or Show Grid. This function displays
 # Important Variables 
 Variable Name | Value
 ------------ | -------------
+guessedwords | keeps track of how many words the user has correctly guessed
+puzzle | Input from puzzle.csv file
+grid | The grid itself composed of strings
+userinput | Stores user input from keyboard which determines which function to execute
+word | Stores the user's guessed word in order to search for its' existence
+
+
