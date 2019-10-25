@@ -5,6 +5,6 @@
 
 ###### *In order to run this program, you must have python 3 installed.*
 ## Installing Python 3
-*Linux
-  *ssda
+* Linux
+  * ssda
 
