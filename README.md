@@ -16,5 +16,5 @@
   * Download the latest release of python from https://www.python.org/downloads/windows/
   * During installation, make sure to select option "Add Python to PATH"
 
-#### Once the previous steps are complete, open your command line and make sure you're in the same directory as puzzle.csv and Crosswordpuzzle.py and simply run the command `python 
+#### Once the previous steps are complete, open your command line and make sure you're in the same directory as puzzle.csv and CrossWordPuzzle.py and simply run the command `python CrossWordPuzzle.py`
 
