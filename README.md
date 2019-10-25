@@ -4,7 +4,17 @@
 # Running the Crossword puzzle
 
 ###### *In order to run this program, you must have python 3 installed.*
+
 ### Installing Python 3
 * Linux
-  * sudo apt-get install python3.6
+  * Open up terminal 
+  * Type the command: "sudo apt-get install python3.6" replace "apt-get" with your distro's package manager
+* Mac OS X 
+  * Open up terminal
+  * If you have homebrew package manager just type "brew install python".
+* Windows
+  * Download the latest release of python from https://www.python.org/downloads/windows/
+  * During installation, make sure to select option "Add Python to PATH"
+
+#### Once the previous steps are complete, open your command line and make sure you're in the same directory as puzzle.csv and Crosswordpuzzle.py and simply run the command `python 
 
