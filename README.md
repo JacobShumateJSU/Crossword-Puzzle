@@ -19,6 +19,12 @@
 #### Once the previous steps are complete, open your command line and make sure you're in the same directory as puzzle.csv and CrossWordPuzzle.py and simply run the command `python CrossWordPuzzle.py`
 
 # Functions Documentation
-###### *This application uses 9 separate functions.*
+###### *This program uses 6 separate functions.*
 Function | Purpose
 ------------ | -------------
+main() |
+createGrid() |
+findWord() |
+readPuzzle() |
+addWordtoGrid() |
+printGrid() |
